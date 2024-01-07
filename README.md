@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @tablet67 - intrigued by AI and SD. I bought my first computer in 1982 and built a few websites during the 1990s but became distracted by other projects.  I'm now retired and fill my days with exercise, books, family, friends, and church.  
+- 👀 I’m interested in AI and SD as a hobbyist, but bugs like JSONDecodeError crash my machine after loading.  I can't wait for SD to stabilize on my machine so I can start learning. 
